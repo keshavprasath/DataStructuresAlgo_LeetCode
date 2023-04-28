@@ -1,9 +1,22 @@
-# Data Strcuture & Algorithms
+# Data Structures & Algorithms
+This repository documents my journey of learning and practicing data structures and algorithms in Python, focusing primarily on problems from LeetCode and NeetCode.
 
-Here i document my journey through Leetcode specifically (also using Neetcode).
+## Approach
+My approach involves the following steps:
 
-I try a step by step method, from laying down the potential psuedocode, to actually building the functions. 
-I make it a practise to also talk about operation and time complexity of my algorthm to further understand the code. 
-Additoanlly, i try to go back older problems and optimse them to reduce time complixity or improve code efficiency by using better data structures or newer algorithms learnt.
+- Write down the potential pseudocode for the problem.
+- Implement the functions based on the pseudocode.
+- Analyze and discuss the time and space complexity of the implemented algorithm to deepen my understanding of the code.
+- Periodically revisit older problems to optimize them by reducing time complexity, improving code efficiency, or applying new data structures and algorithms learned.
 
-(Note: the code is all done by me without the help of AI)
+(Note: All code in this repository is written by me without the assistance of AI. This was purely done to develop algorithmic thinking than rushing for solutions)
+
+## Contents
+Algorithms
+Data Structures
+
+## Usage
+To run the code examples in this repository, you can either clone the repository and run the Python scripts, or you can run the code in an online Python environment like Repl.it.
+
+## Contributing
+I welcome any suggestions or feedback on the solutions presented in this repository. If you find any issues, have suggestions for improvements, or would like to discuss alternative solutions, please feel free to create an issue or submit a pull request.
